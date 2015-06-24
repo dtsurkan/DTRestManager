@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>82D5340E-DF58-40CC-89A8-6AF29D561FE0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DTRestFrameworkExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0313067C38FD0D7F851A122B57289FEE50B00A57</key>
+		<string>https://bitbucket.org/dtsurkan/dtrestframework.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DTRestFrameworkExample/DTRestFrameworkExample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0313067C38FD0D7F851A122B57289FEE50B00A57</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/dtsurkan/dtrestframework.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0313067C38FD0D7F851A122B57289FEE50B00A57</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0313067C38FD0D7F851A122B57289FEE50B00A57</string>
+			<key>IDESourceControlWCCName</key>
+			<string>dtrestframework</string>
+		</dict>
+	</array>
+</dict>
+</plist>
